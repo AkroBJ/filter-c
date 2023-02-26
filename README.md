@@ -1,5 +1,10 @@
 # filter-c
 
+Good lecture:
+http://www.dspguide.com/ch19/3.htm
+https://exstrom.com/journal/sigproc/dsigproc.html
+
+
 Elegant Butterworth and Chebyshev filter implemented in C, with float/double precision support. Works well on many platforms. You can also use this package in C++ and bridge to many other languages for good performance.
 
 Features
